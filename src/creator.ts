@@ -54,4 +54,3 @@ export function createNewScript() {
             vscode.window.showInformationMessage(`已创建 ${fileName}.js 文件`);
         });
 }
-// export { createNewFile };

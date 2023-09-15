@@ -2,6 +2,9 @@
   "name": "tampermonkey-scaffold",
   "displayName": "Tampermonkey",
   "description": "help you finish a tampermonkey script",
+  "publisher": "MorningStart",
+  "icon": "logo.png",
+  "repository": "https://github.com/morning-start/vsc-tampermonkey",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.82.0"
